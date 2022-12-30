@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T08:13:16.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FcfbbOyiNHwGiUPm9JhQ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T08:21:02.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VJIzsTBUEtRarFVkrQD5" version="20.7.4" type="github">
   <diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
     <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -95,8 +95,14 @@
         <mxCell id="CPEBWeiOF8M4rC8Qsgtd-13" value="viewOOP" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="CPEBWeiOF8M4rC8Qsgtd-14" target="CPEBWeiOF8M4rC8Qsgtd-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="CPEBWeiOF8M4rC8Qsgtd-14" target="CPEBWeiOF8M4rC8Qsgtd-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CPEBWeiOF8M4rC8Qsgtd-14" value="createUR" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPEBWeiOF8M4rC8Qsgtd-15" value="createBRC" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
@@ -172,6 +178,29 @@
         </mxCell>
         <mxCell id="CPEBWeiOF8M4rC8Qsgtd-39" value="ViewITL" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-57" value="detailDialog&lt;br&gt;&amp;lt;urAmounts&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000CC;" edge="1" parent="1" source="CPEBWeiOF8M4rC8Qsgtd-58" target="CPEBWeiOF8M4rC8Qsgtd-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000CC;" edge="1" parent="1" source="CPEBWeiOF8M4rC8Qsgtd-58" target="CPEBWeiOF8M4rC8Qsgtd-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="160" />
+              <mxPoint x="820" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-58" value="URInc.jsp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-61" value="pickBenefitDlg" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEBWeiOF8M4rC8Qsgtd-62" value="getSESDSInfo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000CC;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
